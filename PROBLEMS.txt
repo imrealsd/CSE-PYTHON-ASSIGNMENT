@@ -1,0 +1,33 @@
+1. Write a program that swaps the values of variables M and N. You are not allowed to use
+a third variable. You are not allowed to perform arithmetic on M and N.
+2. Assume a suitable value for temperature of a city in Fahrenheit degrees. Write a program
+to convert this temperature into centigrade degrees and print both temperature.
+3. Any year is input through the keyboard. Write a program to determine whether the year is
+a leap year or not.
+4. Write a program to find out the minimum of three numbers.
+5. Given 3 points (x1, y1), (x2, y2) and (x3, y3) Write a program to check if all the 3 points
+fall on straight line.
+6. Given the coordinates (x, y) of center of a circle and its radius, write a program that will
+determine whether a point lies inside the circle, on the circle or outside the circle.
+7. Write a program to print all prime numbers from 1 to 300.
+8. Write a program to print all Armstrong numbers between 1 and 500.
+9. Write a program to generate all Pythagorean Triplets with side length less than or equal
+to 30.
+10. Write a program to implement a Stack data structure.
+11. Write a program implement a Queue data structure.
+12. Suppose a list has 15 numbers. Write a program that removes all duplicates from this list.
+13. Suppose a date is represented as a tuple (d,m,y). Write a program to create two date
+tuples and find the number of days between the two dates.
+14. Write a program to carry out the following operations on the given set
+S={12,-2,56,1 ,67,3}
+-number of items in set S
+-maximum element in set S
+-minimum element in set S
+-sum of all element in set S
+-obtain a new sorted set from S, set S remaining unchanged
+-report whether 40 is a member of the set
+-report whether 1 is an element of set S
+15. Create a list of cricketers. Use this list to create a dictionary in which the list value
+become key values of the dictionary. Set the values of all keys to 50 in the dictionary
+created.
+16. Write a program to sort a dictionary in ascending / descending order by value.
